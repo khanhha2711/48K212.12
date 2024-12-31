@@ -15,6 +15,7 @@ Trong dự án này, tôi đảm nhận cương vị là **trưởng nhóm**. C�
 ## Tính Năng Nổi Bật
 - **Tìm kiếm địa điểm**: Tìm kiếm các địa điểm theo nhu cầu của người dùng
 ![Hình ảnh mô tả dự án](Image/MangHinhChinh.png)
+
 ![Hình ảnh mô tả dự án](Image/ThongTin.png)
 - **Quản lý địa điểm**: Người dùng có thể lưu các địa điểm yêu thích, ngoài ra còn có thể tạo lộ trình di chuyển giữa các điểm đến để có một chuyển đi thuận tiện
 ![Hình ảnh mô tả dự án](Image/LoTrinh.png)
