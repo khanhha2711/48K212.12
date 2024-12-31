@@ -11,8 +11,8 @@ Trong dự án này, tôi đảm nhận cương vị là trưởng nhóm. Cụ t
 - **Kiểm thử**: Thực hiện kiểm thử chức năng để đảm bảo hệ thống hoạt động ổn định và không có lỗi.
 
 ## Công Nghệ Sử Dụng
-- Thiết kế: Figma
-- Front-end: HTML,CSS 
+- **Thiết kế**: Figma
+- **Front-end**: HTML,CSS 
 
 ## Tính Năng Nổi Bật
 - **Tìm kiếm địa điểm**: Người dùng có thể tìm kiếm địa điểm vui chơi theo vị trí và loại hình.
