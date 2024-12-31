@@ -1,8 +1,8 @@
 # HỆ THỐNG TÌM KIẾM ĐỊA ĐIỂM VUI CHƠI
 
 ## Mô Tả
-Dự án "Hệ Thống Tìm Kiếm Địa Điểm Vui Chơi" là dự án nhóm với 5 thành viên, được phát triển trong khuôn khổ môn học Phân Tích và Thiết Kế Hệ Thống Thông Tin.
-Hệ thống tìm kiếm du lịch được tạo ra với giúp người dùng tiết kiệm thời gian và công sức trong việc tìm kiếm thông tin về các địa điểm du lịch. Thay vì phải tìm kiếm trên nhiều nguồn thông tin khác nhau, người dùng chỉ cần truy cập vào hệ thống này để có được thông tin đầy đủ và chi tiết. Thông qua việc cung cấp thông tin chi tiết về các địa điểm du lịch, hệ thống này giúp người dùng có thể lên kế hoạch và tổ chức chuyến đi một cách hiệu quả.
+- Dự án "Hệ Thống Tìm Kiếm Địa Điểm Vui Chơi" là dự án nhóm với 5 thành viên, được phát triển trong khuôn khổ môn học Phân Tích và Thiết Kế Hệ Thống Thông Tin.
+- Hệ thống tìm kiếm du lịch được tạo ra với giúp người dùng tiết kiệm thời gian và công sức trong việc tìm kiếm thông tin về các địa điểm du lịch. Thay vì phải tìm kiếm trên nhiều nguồn thông tin khác nhau, người dùng chỉ cần truy cập vào hệ thống này để có được thông tin đầy đủ và chi tiết. Thông qua việc cung cấp thông tin chi tiết về các địa điểm du lịch, hệ thống này giúp người dùng có thể lên kế hoạch và tổ chức chuyến đi một cách hiệu quả.
 ## Vai Trò Của Tôi
 Trong dự án này, tôi đảm nhận cương vị là trưởng nhóm. Cụ thể, tôi đã thực hiện các nhiệm vụ sau:
 - **Rà soát và quản lý**: Đảm bảo tất cả các phần của dự án được thực hiện đúng tiến độ và đạt chất lượng cao.
