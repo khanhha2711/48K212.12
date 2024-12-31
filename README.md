@@ -1,4 +1,4 @@
-# HỆ THỐNG TÌM KIẾM ĐỊA ĐIỂM VUI CHƠI
+![MangHinhChinh](https://github.com/user-attachments/assets/317d5206-624a-4940-8383-dd8b4a82c8a3)# HỆ THỐNG TÌM KIẾM ĐỊA ĐIỂM VUI CHƠI
 
 ## Mô Tả
 - Dự án "Hệ Thống Tìm Kiếm Địa Điểm Vui Chơi" là dự án nhóm với 5 thành viên, được phát triển trong khuôn khổ môn học Phân Tích và Thiết Kế Hệ Thống Thông Tin.
@@ -14,7 +14,7 @@ Trong dự án này, tôi đảm nhận cương vị là **trưởng nhóm**. C�
 - **Front-end**: HTML,CSS 
 ## Tính Năng Nổi Bật
 - **Tìm kiếm địa điểm**: Tìm kiếm các địa điểm theo nhu cầu của người dùng
-- !(https://github.com/khanhha2711/48K212.12/blob/main/Image/MangHinhChinh.png)
+![Hình ảnh mô tả dự án](Image/MangHinhChinh.png)
 - **Quản lý địa điểm**: Người dùng có thể lưu các địa điểm yêu thích, ngoài ra còn có thể tạo lộ trình di chuyển giữa các điểm đến để có một chuyển đi thuận tiện
 
 
